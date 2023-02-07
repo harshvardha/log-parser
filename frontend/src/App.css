@@ -1,0 +1,16 @@
+.navbar {
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.selectFile {
+    padding: 10px;
+    background-color: aqua;
+}
+
+.parsedLogs {
+    padding: 10px;
+    background-color: aqua;
+}
